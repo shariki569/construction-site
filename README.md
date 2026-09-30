@@ -19,9 +19,9 @@ Open [http://localhost:3000](http://localhost:3000).
 - `/projects` Projects
 - `/contact` Contact
 
-## Deploy
+## Live
 
-This repo deploys as a static Next.js export.
+- **Site:** https://construction-website-two-weld.vercel.app
+- **Repo:** https://github.com/shariki569/construction-site
 
-- **Vercel:** import `shariki569/construction-site` (or `npx vercel --prod`)
-- **GitHub Pages:** enabled via GitHub Actions on `main` at `https://shariki569.github.io/construction-site/`
+Pushes to `main` rebuild on Vercel. GitHub Pages can also be turned on under **Settings → Pages → GitHub Actions** (URL: `https://shariki569.github.io/construction-site/`).
