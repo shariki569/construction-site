@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Construction skyline overlay">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <rect x="80" y="420" width="180" height="400" fill="#0F172A"/>
+  <rect x="280" y="300" width="220" height="520" fill="#162033"/>
+  <rect x="520" y="360" width="160" height="460" fill="#0F172A"/>
+  <rect x="700" y="220" width="280" height="600" fill="#1a2740"/>
+  <rect x="1000" y="340" width="200" height="480" fill="#0F172A"/>
+  <rect x="1220" y="280" width="260" height="540" fill="#162033"/>
+  <rect x="320" y="340" width="28" height="28" fill="#EAB308"/>
+  <rect x="380" y="340" width="28" height="28" fill="#EAB308"/>
+  <rect x="760" y="270" width="32" height="32" fill="#EAB308"/>
+  <rect x="820" y="270" width="32" height="32" fill="#EAB308"/>
+  <rect x="880" y="270" width="32" height="32" fill="#EAB308"/>
+  <polygon points="700,220 840,120 980,220" fill="#EAB308"/>
+  <rect x="0" y="780" width="1600" height="120" fill="#0F172A"/>
+  <rect x="0" y="770" width="1600" height="8" fill="#EAB308"/>
+  <line x1="1180" y1="180" x2="1180" y2="780" stroke="#EAB308" stroke-width="6"/>
+  <line x1="1180" y1="180" x2="1320" y2="260" stroke="#94A3B8" stroke-width="4"/>
+</svg>
