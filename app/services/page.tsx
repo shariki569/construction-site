@@ -44,7 +44,7 @@ export default function ServicesPage() {
             </div>
             <div className="service_media">
               <figure>
-                <img src={asset("/images/service-residential.svg" alt="Placeholder image of a residential construction project in Cebu" />
+                <img src={asset("/images/service-residential.svg")} alt="Placeholder image of a residential construction project in Cebu" />
               </figure>
             </div>
           </article>
@@ -68,7 +68,7 @@ export default function ServicesPage() {
             </div>
             <div className="service_media">
               <figure>
-                <img src={asset("/images/service-commercial.svg" alt="Placeholder image of a commercial building under construction" />
+                <img src={asset("/images/service-commercial.svg")} alt="Placeholder image of a commercial building under construction" />
               </figure>
             </div>
           </article>
@@ -92,7 +92,7 @@ export default function ServicesPage() {
             </div>
             <div className="service_media">
               <figure>
-                <img src={asset("/images/service-renovation.svg" alt="Placeholder image of renovation and remodeling works" />
+                <img src={asset("/images/service-renovation.svg")} alt="Placeholder image of renovation and remodeling works" />
               </figure>
             </div>
           </article>
@@ -116,7 +116,7 @@ export default function ServicesPage() {
             </div>
             <div className="service_media">
               <figure>
-                <img src={asset("/images/service-pm.svg" alt="Placeholder image of architectural plans and project management coordination" />
+                <img src={asset("/images/service-pm.svg")} alt="Placeholder image of architectural plans and project management coordination" />
               </figure>
             </div>
           </article>

@@ -16,7 +16,7 @@ export default function HomePage() {
       <section id="hero">
         <div className="hero_bg">
           <figure>
-            <img src={asset("/images/hero.svg" alt="Industrial skyline representing Apex Build Philippines construction projects" />
+            <img src={asset("/images/hero.svg")} alt="Industrial skyline representing Apex Build Philippines construction projects" />
           </figure>
         </div>
         <div className="wrapper hero_con">
@@ -87,7 +87,7 @@ export default function HomePage() {
             </div>
             <div className="about_media">
               <figure>
-                <img src={asset("/images/about.svg" alt="Placeholder image of Apex Build Philippines jobsite and building envelope" />
+                <img src={asset("/images/about.svg")} alt="Placeholder image of Apex Build Philippines jobsite and building envelope" />
               </figure>
             </div>
           </div>
@@ -105,7 +105,7 @@ export default function HomePage() {
           <div className="btm1_boxes">
             <section>
               <figure>
-                <img src={asset("/images/service-residential.svg" alt="Placeholder for residential construction in Cebu" />
+                <img src={asset("/images/service-residential.svg")} alt="Placeholder for residential construction in Cebu" />
               </figure>
               <h3>Residential Construction</h3>
               <p>Custom homes, townhouses, and residential compounds built to approved structural and architectural plans.</p>
@@ -113,7 +113,7 @@ export default function HomePage() {
             </section>
             <section>
               <figure>
-                <img src={asset("/images/service-commercial.svg" alt="Placeholder for commercial building construction" />
+                <img src={asset("/images/service-commercial.svg")} alt="Placeholder for commercial building construction" />
               </figure>
               <h3>Commercial Building</h3>
               <p>Offices, retail, and mixed-use structures with coordinated MEPF and occupancy-ready turnover.</p>
@@ -121,7 +121,7 @@ export default function HomePage() {
             </section>
             <section>
               <figure>
-                <img src={asset("/images/service-renovation.svg" alt="Placeholder for renovation and remodeling works" />
+                <img src={asset("/images/service-renovation.svg")} alt="Placeholder for renovation and remodeling works" />
               </figure>
               <h3>Renovation &amp; Remodeling</h3>
               <p>Structural openings, wet-area upgrades, and full interior refreshes with controlled demolition.</p>
@@ -129,7 +129,7 @@ export default function HomePage() {
             </section>
             <section>
               <figure>
-                <img src={asset("/images/service-pm.svg" alt="Placeholder for project management and architectural coordination" />
+                <img src={asset("/images/service-pm.svg")} alt="Placeholder for project management and architectural coordination" />
               </figure>
               <h3>Project Management</h3>
               <p>Schedule, cost, and design coordination for owners who need a licensed contractor at the helm.</p>
